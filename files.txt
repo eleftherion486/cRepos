@@ -1,0 +1,38 @@
+sub.c
+gcc sub.c -o sub
+substitues one char for another
+uses arguments, in/out redirection
+
+init.c
+gcc init.c -o init
+read line by line
+
+program1.c
+gcc program1.c -o program1
+performs matrix multiplication
+
+program2.c
+gcc program2.c -o program2
+calendar with zeller number
+
+q4.c
+flips all ones to zeros in 16bit
+
+lab1task5.c
+counts words using realloc to dynamically resize array
+
+lab1task9.c
+struct of a message using union
+
+lab1task11.c
+gcc lab1task11.c -o lab1task11.c
+database of structs via linked list
+
+l5t1.c
+scanner.c
+
+l5t2.c
+scanner2.c
+parses tokens for a language
+
+ 
